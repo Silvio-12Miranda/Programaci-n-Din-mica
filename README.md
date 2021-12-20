@@ -19,7 +19,7 @@
 # INTRODUCCIÓN
 
 <div align="center"> 
-  <img src="img_readme/Richard_bellman.jpg" width="200">
+  <img src="img_readme/Richard_Bellman.jpg" width="200">
   <p>Richard Bellman</p>
 </div>
 
