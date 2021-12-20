@@ -10,4 +10,7 @@
 - [OBJETIVOS](#OBJETIVOS)
 
 # OBJETIVOS
-- 
+- Aprender cuándo utilizar la Programación Dinámia y en que nos puede beneficiar.
+- Diferenciar entre progrmación determinista y estocástica.
+- Aprender a utilizar la Programación Estocástica.
+- Aprender a crear simulaciones computacionales.
