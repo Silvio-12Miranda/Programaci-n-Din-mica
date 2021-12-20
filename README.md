@@ -1,1 +1,1 @@
-# Programaci-n-Din-mica
+# Programación Dinámica
