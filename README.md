@@ -11,6 +11,7 @@
 - [INTRODUCCIÓN](#INTRODUCCIÓN)
 - [FIBONACCI](#FIBONACCI)
 	-[Optimización](#Optimización)
+-[CAMINOS ALEATORIOS](#CAMINOS ALEATORIOS)
 
 # OBJETIVOS
 - Aprender cuándo utilizar la Programación Dinámia y en que nos puede beneficiar.
@@ -104,3 +105,9 @@ if __name__ == '__main__':
 ```
 
 El programa ahora es capaz de computar fibonacci de numeros miles de manera casi instantanea, lo que no podia realizar el anterior codigo.
+
+# CAMINOS ALEATORIOS
+
+- Es un tipo de simulación que elige aleatoriamente una decisión de un conjunto de desiciones válidas.
+- Se usa cuando un sistema no es **determinista** y tiene elementos aleatorios.
+
