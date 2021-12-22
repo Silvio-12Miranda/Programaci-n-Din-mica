@@ -9,6 +9,7 @@
 # CONTENIDO
 - [OBJETIVOS](#OBJETIVOS)
 - [INTRODUCCIÓN](#INTRODUCCIÓN)
+- [OPTIMIZACIÓN DE FUBONACCI](#OPTIMIZACIÓN DE FUBONACCI)
 
 # OBJETIVOS
 - Aprender cuándo utilizar la Programación Dinámia y en que nos puede beneficiar.
@@ -45,3 +46,28 @@ La Memorización(Memoization) evita computos adicionales guardando los resultado
 - Usamos por lo regular Diccionarios para almacenar los computos, donde las consultas se pueden hacer de una manera rapida.
 - Sacrificamos espacio para optimizar el proceso de ejecución.
 
+#OPTIMIZACIÓN DE FUBONACCI
+
+Los Numeros de Fibonacci se representan por `Fn = Fn-1 + Fn-2` la cual es una serie recursiva, la serie de fubonacci es una serie exponencial, lo que implica que los calculos sean mas engorrosas entre mas grande sea el Fibonacci a calcular.
+
+<div align="center">
+  <img src="img_readme/fibonacci.png" width="200">
+  <p>Serie Fubonacci</p>
+</div>
+
+A continuación se muestra el codigo para calcular numeros de Fibonacci de manera recursiva.
+
+```
+def fibonacci_recursivo(n):
+        if n == 0 or n == 1:
+            return 1
+        return fibonacci_recursivo(n-1) + fibonacci_recursivo(n-2)
+
+def run():
+    n = int(input('Escribe un numero: '))
+    resultado = fibonacci_recursivo(n)
+    print(resultado)
+
+if __name__ == '__main__':
+    run()
+```
