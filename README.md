@@ -48,11 +48,11 @@ La Memorización(Memoization) evita computos adicionales guardando los resultado
 
 # FIBONACCI
 
-Los Numeros de Fibonacci se representan por `Fn = Fn-1 + Fn-2` la cual es una serie recursiva, la serie de fubonacci es una serie exponencial, lo que implica que los calculos sean mas engorrosas entre mas grande sea el Fibonacci a calcular.
+Los Numeros de Fibonacci se representan por `Fn = Fn-1 + Fn-2` la cual es una serie recursiva, la serie de fibonacci es una serie exponencial, lo que implica que los calculos sean mas engorrosas entre mas grande sea el Fibonacci a calcular.
 
 <div align="center">
   <img src="img_readme/fibonacci.png" width="500">
-  <p>Serie Fubonacci</p>
+  <p>Serie Fibonacci</p>
 </div>
 
 A continuación se muestra el codigo para calcular numeros de Fibonacci de manera recursiva.
