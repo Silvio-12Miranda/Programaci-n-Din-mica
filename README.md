@@ -74,9 +74,9 @@ if __name__ == '__main__':
 ```
 
 Ahora bien, notamos que si deseamos calcular fibonacci de numeros como por ejemplo: `f(50), f(100),... f(n)`, el programa tardara en ejecutar los calculos, por lo que concluimos su ineficiencia antes dicha.
-
+<h2>
 # Optimización
-
+</h2>
 Aplicamos la programación dinámica para optimizar el programa.
 
 ```
