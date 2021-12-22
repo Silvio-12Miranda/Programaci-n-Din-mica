@@ -10,6 +10,7 @@
 - [OBJETIVOS](#OBJETIVOS)
 - [INTRODUCCIÓN](#INTRODUCCIÓN)
 - [FIBONACCI](#FIBONACCI)
+	-[Optimización](#Optimización)
 
 # OBJETIVOS
 - Aprender cuándo utilizar la Programación Dinámia y en que nos puede beneficiar.
@@ -73,6 +74,8 @@ if __name__ == '__main__':
 ```
 
 Ahora bien, notamos que si deseamos calcular fibonacci de numeros como por ejemplo: `f(50), f(100),... f(n)`, el programa tardara en ejecutar los calculos, por lo que concluimos su ineficiencia antes dicha.
+
+# Optimización
 
 Aplicamos la programación dinámica para optimizar el programa.
 
