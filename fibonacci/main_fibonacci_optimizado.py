@@ -1,3 +1,4 @@
+import sys
 def fibonacci_dinamico(n, memo = {}):
     if n == 0 or n == 1:
         return 1
@@ -10,6 +11,7 @@ def fibonacci_dinamico(n, memo = {}):
         return resultado
     
 def run():
+    sys.setrecursionlimit(11111)
     n = int(input('Escriba un numero: '))
     resultado = fibonacci_dinamico(n)
     print(resultado)
