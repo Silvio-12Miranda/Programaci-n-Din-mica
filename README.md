@@ -11,7 +11,7 @@
 - [INTRODUCCIÓN](#INTRODUCCIÓN)
 - [FIBONACCI](#FIBONACCI)
 	-[Optimización](#Optimización)
-- [CAMINOS ALEATORIOS](#CAMINOS ALEATORIOS)
+- [CAMINOS ALEATORIOS](#CAMINOS-ALEATORIOS)
 
 # OBJETIVOS
 - Aprender cuándo utilizar la Programación Dinámia y en que nos puede beneficiar.
