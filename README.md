@@ -9,7 +9,7 @@
 # CONTENIDO
 - [OBJETIVOS](#OBJETIVOS)
 - [INTRODUCCIÓN](#INTRODUCCIÓN)
-- [OPTIMIZACIÓN DE FUBONACCI](#OPTIMIZACIÓN DE FUBONACCI)
+- [OPTIMIZACIÓN DE FIBONACCI](#OPTIMIZACIÓN DE FIBONACCI)
 
 # OBJETIVOS
 - Aprender cuándo utilizar la Programación Dinámia y en que nos puede beneficiar.
@@ -46,7 +46,7 @@ La Memorización(Memoization) evita computos adicionales guardando los resultado
 - Usamos por lo regular Diccionarios para almacenar los computos, donde las consultas se pueden hacer de una manera rapida.
 - Sacrificamos espacio para optimizar el proceso de ejecución.
 
-#OPTIMIZACIÓN DE FUBONACCI
+# OPTIMIZACIÓN DE FIBONACCI
 
 Los Numeros de Fibonacci se representan por `Fn = Fn-1 + Fn-2` la cual es una serie recursiva, la serie de fubonacci es una serie exponencial, lo que implica que los calculos sean mas engorrosas entre mas grande sea el Fibonacci a calcular.
 
